@@ -3,4 +3,4 @@
 
 
 une demo de git 
-modif depuis git hub 
+modif depuis git hub uniquement 
