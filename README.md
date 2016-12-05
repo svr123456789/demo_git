@@ -2,6 +2,6 @@
 ==============
 
 
-une demo de git 
-modif depuis git hub uniquement
+une demo de git <br>
+modif depuis git hub uniquement <br>
 modif depuis la classe 
